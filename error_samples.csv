@@ -1,0 +1,61 @@
+review_text,label,generator,p_machine,err
+super guolis nebeūžia.,0,human,0.99529994,FP
+"greitai paskambino ir profesionaliai pakonsultavo, suteikė reikiamą pagalbą. sveikata greitai pagerėjo.",0,human,0.7800348,FP
+su pristatymu įvyko nesusipratimas.,0,human,0.98518616,FP
+netvarka su užsakymu. aš laukiau daugiau nei mėnesį.,0,human,0.9964134,FP
+užsakymas gautas greitai.,0,human,0.80232334,FP
+is influenceres agnės. gydytoja atsakė į visus svarbius klausimus.,0,human,0.7524676,FP
+puikus kainos ir kokybės santykis!,0,human,0.95409465,FP
+labai prasta situacija su pristatymo terminais.,0,human,0.9226916,FP
+"užsakiau viena spalva, gavau kita.",0,human,0.9911011,FP
+"akinius gavau laiku ir puikios kokybės. pirksiu ir ateityje, kai prireiks. šauni komanda.",0,human,0.84878427,FP
+очень отвратительное обслуживание!,0,human,0.94509614,FP
+verta pirkti šioje parduotuvėje.,0,human,0.71671456,FP
+"prekė kokybiška, atitiko lūkesčius.",0,human,0.6434133,FP
+"ačiū, viskas nepriekaištingai!",0,human,0.6881803,FP
+nebuvo pakrovėjo laido.,0,human,0.8730526,FP
+pigios detales geras srotas.,0,human,0.8491599,FP
+"paslaugus kokybė labai gera, naudojosi daug metų.",0,human,0.50112915,FP
+prekės kokybė gera. pristatymas operatyvus!,0,human,0.6246156,FP
+alkotesteris rodo nesamones. nesuprantu kaip ji grazinti,0,human,0.96912026,FP
+sudomino ir džiaugiuosi išbandydama.,0,human,0.76563716,FP
+"užsisakiau, kitą dieną gavau.",0,human,0.714379,FP
+"tekdavo retkarčiais užsukti į norfą, kol jos neuždarė aleksote. kiek ateidavau, prie įėjimo jausdavosi stiprus ir nemalonus gumos kvapas, nuo guminės avalynės kvapas. bet kainos per daug nesikandžiodavo. tiesa, šioje parduotuvėje publika būdavo mažiau maloni nei kitur.",0,human,0.9128643,FP
+užsakymas į paštomatą atėjo net greičiau nei buvo planuota.,0,human,0.9392481,FP
+"prekes gaunu be jokiu problemu. cia randu, ko man reikia. darbuotojai aptarnauja greitai, maloniai, dalykiskai. svetaine patogu naudotis.",0,human,0.54283303,FP
+"gera patirtis, gera kaina.",0,human,0.97562337,FP
+vissiskai sudauzyta stikline.,0,human,0.8588962,FP
+"komunikacija - super! pristatymas žaibišku greičiu. prekės - marškinėliai. dydžiai atitiko, kokybė taip pat!",0,human,0.9916358,FP
+"keturis kartus buvo atidedama pristatymo data, nes ""užsakymas pasiklydo lentynose"". prekė buvo pristatyta po dienos, kai atšaukiau užsakymą. gavosi kažkokia ""abra kadabra"".",0,human,0.9791955,FP
+"kvapas geras, pristatė greitai.",0,human,0.8692713,FP
+"naudojausi pirmą kartą, bet likau patenkinta. ačiū.",0,human,0.5300845,FP
+tokioje kainoje - žvaigždžių lūpinėti,1,anthropic,0.16789973,FN
+išmetė iš sistemos užsakymo vid,1,gemini,0.0053954087,FN
+gera preke.,1,gemini,0.22333471,FN
+nusipirkau šildytuvą ir jis bu,1,anthropic,0.116814375,FN
+"pirkau du daiktus, gavau tik vieną, dublis su užsakymu.",1,openai,0.38742957,FN
+ziuriai malonus aptarnavimas,1,openai,0.020685462,FN
+greitas prekių rodymas.,1,gemini,0.2358996,FN
+pristatė žaibiškai.,1,gemini,0.115910664,FN
+"pirkau vaizdo kamera, kuri atsiunte ne ta modeli. grazinimo atveju jie prase, kad pats mokečiau uz siuntima.",1,gemini,0.1894461,FN
+"mano senelis užsisakė iš jų didelį nešiojamą aparatą ir labai patenkinta. greitumas, žmoniškas aptarnavimas, teisinga kaina. nuo to laiko jis ten iš savo senelių draugų rekomenduoja ir visi patenkinti.",1,anthropic,0.017831627,FN
+labai operatyviai pristatė.,1,gemini,0.032528225,FN
+"dvi menesiais laukiau atsakymo, jie nepriklauso atsakyti per 2h kaip žade, tada pasake jog to žadėjimo nera, o kur tada matei tą žadą jei jis buvo?",1,anthropic,0.016029146,FN
+prekių atsiėmimas greitas ir patogus.,1,openai,0.3561667,FN
+"greitas, patogus, be rūpesčių.",1,gemini,0.040200245,FN
+puiki parduotuvė. rekomenduoju.,1,gemini,0.079495706,FN
+drona atsiunte laiku. taciau baterija laiko,1,gemini,0.45687166,FN
+prekių atsiėmimas patogus ir greitas.,1,openai,0.3907228,FN
+permokejau uz toki da,1,gemini,0.10994445,FN
+geriausias dealas!,1,gemini,0.43164405,FN
+greitas aptarnavimas ir siuntimas.,1,gemini,0.054600604,FN
+"ačiū, kad greitai pristatėte.",1,gemini,0.057176594,FN
+"greitas, saugus, kokybiškas pristatymas.",1,anthropic,0.008711384,FN
+iš to ką turiu - tik dėkui ir toliau.,1,anthropic,0.45559216,FN
+visa paprasta.,1,anthropic,0.11037522,FN
+visiškai patenkinta!,1,gemini,0.49890137,FN
+"čiki nuolaidos, čiki pristatymas",1,anthropic,0.37850216,FN
+"greitas pristatymas, gera pakuotė, patenkinta.",1,anthropic,0.28368217,FN
+"viskas paprasta, nesudėtinga ir greita.",1,openai,0.007489624,FN
+profesionaliai!,1,gemini,0.4913644,FN
+sklandžiai įvykdytas užsakymas.,1,gemini,0.37616467,FN

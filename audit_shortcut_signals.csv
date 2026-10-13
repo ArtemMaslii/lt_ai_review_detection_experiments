@@ -1,0 +1,5 @@
+generator,n_chars,n_words,avg_word_len,diac_ratio,punct_ratio,digit_ratio,upper_ratio,has_cyrillic,n_excl,n_sent,store_missing
+anthropic,92.926,12.808,6.558,0.051,0.041,0.0,0.0,0.001,0.153,2.012,0.284
+gemini,81.828,10.916,6.835,0.032,0.045,0.0,0.0,0.0,0.125,2.064,0.296
+human,171.305,23.174,6.694,0.04,0.038,0.006,0.0,0.01,0.227,2.837,0.0
+openai,83.531,11.158,6.769,0.053,0.04,0.0,0.0,0.0,0.219,1.624,0.302
